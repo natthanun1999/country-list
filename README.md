@@ -57,6 +57,7 @@ Searches can be conducted by any of the following methods:
 var found = country.findByIso2('BD');
 var found = country.findByIso3('BGD');
 var found = country.findByName('Bangladesh');
+var found = country.findByContinent('Asia');
 var found = country.findByCapital('Dakha');
 var found = country.findByCurrency('BDT');
 var found = country.findByPhoneNbr('+8804005050');

@@ -3,6 +3,7 @@ export const cache: {};
 export function findByIso2(code: any): any;
 export function findByIso3(code: any): any;
 export function findByName(name: any): any;
+export function findByContinent(name: any): any;
 export function findByCapital(name: any): any;
 export function findByCurrency(code: any): any;
 export function findByProvince(name: any): any;

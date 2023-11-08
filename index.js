@@ -6,6 +6,7 @@ var self = module.exports = {
     findByIso2: code => x(self.all[code]),
     findByIso3: code => find('iso3', code),
     findByName: name => find('name', name),
+    findByContinent: name => find('continent', name),
     findByCapital: name => find('capital', name),
     findByCurrency: code => find('currency', code),
     findByProvince(name) {
