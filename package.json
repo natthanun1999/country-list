@@ -1,6 +1,6 @@
 {
   "name": "private-country-list-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Country list with ISO2, ISO3 code, continent, capital, dialing code",
   "homepage": "https://github.com/natthanun1999/country-list.git",
   "author": {
